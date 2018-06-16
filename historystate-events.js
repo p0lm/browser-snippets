@@ -13,15 +13,9 @@
         composed: true
       });
       Object.defineProperties(this, {
-        state: {
-          value: state
-        },
-        title: {
-          value: title
-        },
-        url: {
-          value: url
-        }
+        state: { value: state },
+        title: { value: title },
+        url: { value: url }
       });
     }
   };
