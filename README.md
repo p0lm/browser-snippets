@@ -1,4 +1,4 @@
-# browser-snippets
+# userscripts
 A collection of javascript snippets for in the browser. 
 
 ## Usage
